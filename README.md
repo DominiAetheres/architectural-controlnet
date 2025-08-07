@@ -1,4 +1,10 @@
 # Architectural ControlNet
+
+## Weights
+Model weights can be found here:
+
+https://huggingface.co/aetheres/architectural-controlnet
+
 ## Process
 
 Stable Diffusion is the choice of model when it comes to photorealistic generation, above GAN models like pix2pix. However, model size is an issue as well as catastrophic forgetting which can be caused when training on small datasets. 
