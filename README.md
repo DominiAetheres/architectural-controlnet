@@ -71,7 +71,7 @@ CLIPSeg itself is too noisy.
 
 ## Demonstration
 
-Hosted on https://www.aetheres.xyz/architectural-controlnet-demo\
+Hosted on https://www.aetheres.xyz/architectural-controlnet-demo
 NOTE: the model requires too much resources to be run real time, the image is pre-loaded.
 
 Sketch style architectural image:
